@@ -1,4 +1,5 @@
 <h3 align="justify"> Hi there, I am pratama Azmi , I loved <strong>learning</strong> and sharing my knowledge, I m into <strong>Data science</strong> but i also loved learn another subject :D  <h3>
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=xwyzworms.xwyzworms)
     <p align="center">
         <img src="https://img.icons8.com/color/48/000000/git.png" alt="git" width="20" height="20"/> 
         <img src="https://img.icons8.com/color/48/000000/gitlab.png" alt="gitlab" width="20" height="20"/>
@@ -39,6 +40,7 @@
        <p align="center">
         <img src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif" alt="dino"  />
         </p>
+<img align='right' src = "https://github-readme-stats.vercel.app/api?username=xwyzworms&show_icons=true&show_icons=true&title_color=fff&icon_color=0BB7F3&text_color=9f9f9f&bg_color=151515&line_height=25">
 
 <img align='right' src = "https://github-readme-stats.vercel.app/api/top-langs/?username=xwyzworms&&layout=compact&show_icons=true&show_icons=true&title_color=fff&icon_color=0BB7F3&text_color=9f9f9f&bg_color=151515">
 

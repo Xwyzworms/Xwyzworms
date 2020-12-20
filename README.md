@@ -6,20 +6,25 @@
         <img src="https://img.icons8.com/color/48/000000/git.png" alt="git" width="50" height="50"/> 
         <img src="https://img.icons8.com/color/48/000000/gitlab.png" alt="gitlab" width="50" height="50"/>
         <img src="https://raw.githubusercontent.com/vorillaz/devicons/master/!SVG/jquery_logo.svg" alt="jquery" width="50" height="50" />
+        <img src="https://img.icons8.com/color/48/000000/javascript.png" width="50" height="50">
         <img src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg" alt="Go" height="50"/>
         <img src="https://raw.githubusercontent.com/vorillaz/devicons/master/!SVG/java.svg" alt="JAVA" width="50" height="50"/> 
+        <img src="https://img.icons8.com/color/48/000000/html-5.png" width="50" height="50" />
         <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="NodeJS" width="50" height="50"/> 
         <img src="https://img.icons8.com/color/48/000000/python.png" alt="python" width="50" height="50"/>
         <img src="https://img.icons8.com/color/48/000000/google-cloud-platform.png" alt="google cloud"  width="50" height="50" /> 
+        <img src="https://img.icons8.com/color/48/000000/flutter.png" height="50" width="50"/>
+        <img src="https://img.icons8.com/color/48/000000/kotlin.png" height="50" width="50"/>
+        <img src="https://img.icons8.com/color/48/000000/dart.png" width="50" height="50"/>
+        <img src="https://img.icons8.com/ultraviolet/40/000000/xbox-r.png" height="50" width="50"/>
         <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux"  width="50" height="50" />
         <img src="https://img.icons8.com/ios-filled/50/000000/mysql-logo.png" alt="mysql"  width="50" height="50" /> 
         <img src="https://img.icons8.com/color/48/000000/firebase.svg" alt="firebase"  width="50px" height="50" /> 
-        <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch"  width="50" height="50" /> 
+        <img src="https://img.icons8.com/fluent/40/000000/arduino.png" height="50" width="50"/>
         <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow"  width="50" height="50" /> 
         <img src="https://img.icons8.com/color/64/000000/oracle-logo.png" alt="oracle"  width="50" height="50" /> 
         <img src="https://img.icons8.com/color/48/000000/nginx.png" alt="nginx"  width="50" height="50" />
         <img src="https://img.icons8.com/fluent/48/000000/android-os.png" alt="android"  width="50" height="50" />
-        <img src="https://www.vectorlogo.zone/logos/ansible/ansible-ar21.svg" alt="ansible" height="30" /> 
         <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="cplusplus"  width="50" height="50" />
         <img src="https://img.icons8.com/dusk/48/000000/css3.png" alt="css3"  width="50" height="50" />
         <img src="https://img.icons8.com/color/48/000000/elasticsearch.png" alt="elasticsearch"  width="50" height="50" />

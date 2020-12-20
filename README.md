@@ -40,16 +40,22 @@
        <p align="center">
         <img src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif" alt="dino"  />
         </p>
-<img align='right' src = "https://github-readme-stats.vercel.app/api?username=xwyzworms&show_icons=true&show_icons=true&title_color=fff&icon_color=0BB7F3&text_color=9f9f9f&bg_color=151515&line_height=25">
-
-<img align='center' src = "https://github-readme-stats.vercel.app/api/top-langs/?username=xwyzworms&&layout=compact&show_icons=true&show_icons=true&title_color=fff&icon_color=0BB7F3&text_color=9f9f9f&bg_color=151515">
+<table>
+    <tr>
+        <td>
+            <img align='right' src = "https://github-readme-stats.vercel.app/api?username=xwyzworms&show_icons=true&show_icons=true&title_color=fff&icon_color=0BB7F3&text_color=9f9f9f&bg_color=151515&line_height=25">
+        </td>
+        <td>
+            <img align='left' src = "https://github-readme-stats.vercel.app/api/top-langs/?username=xwyzworms&&layout=compact&show_icons=true&show_icons=true&title_color=fff&icon_color=0BB7F3&text_color=9f9f9f&bg_color=151515">
+        </td>
+    </tr>
 
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" height="18px"> You Can Reach Me at 
 
 <p>
-  <a href="https://www.linkedin.com/in/pratama-azmi-atmajaya-383aa5157/" target="blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="https://www.instagram.com/pramz.exe/" target="blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>  
-  <a href="pratamaazmi1@gmail.com" target="blank"><img alt="Gmail" src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" /></a>  
+  <a href="https://www.linkedin.com/in/pratama-azmi-atmajaya-383aa5157/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://www.instagram.com/pramz.exe/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>  
+  <a href="mailto:pratamaazmi1@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" /></a>  
 
 </p>
 

@@ -1,4 +1,4 @@
-<img align="center" src="https://media3.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif?cid=ecf05e472o6hbzoo16il789472xoone9l8c63xcsnwc95xrf&rid=giphy.gif" width="30%" height="30%">
+
 <h3 align="justify"> Hi there, I am pratama Azmi , I loved <strong>learning</strong> and sharing my knowledge, I m into <strong>Data science</strong> but i also loved learn another subject :D  <h3>
 <img src='https://visitor-badge.laobi.icu/badge?page_id=xwyzworms.xwyzworms')>
     <p align="center">
@@ -41,7 +41,6 @@
        <p align="center">
         <img src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif" alt="dino"  />
         <h4>This is me when coding </h4>
-        <img src='https://media0.giphy.com/media/Wsju5zAb5kcOfxJV9i/giphy.gif?cid=ecf05e47wzxn2fvu1iurzgc4shysy3aehb966j98074aagkw&rid=giphy.gif' width="40%" height="30%">
         </p>
 <table>
     <tr>

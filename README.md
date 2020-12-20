@@ -1,5 +1,5 @@
 <h3 align="justify"> Hi there, I am pratama Azmi , I loved <strong>learning</strong> and sharing my knowledge, I m into <strong>Data science</strong> but i also loved learn another subject :D  <h3>
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=xwyzworms.xwyzworms)
+<a href = 'https://visitor-badge.laobi.icu/badge?page_id=xwyzworms.xwyzworms'></a>
     <p align="center">
         <img src="https://img.icons8.com/color/48/000000/git.png" alt="git" width="20" height="20"/> 
         <img src="https://img.icons8.com/color/48/000000/gitlab.png" alt="gitlab" width="20" height="20"/>
@@ -48,6 +48,8 @@
 
 <p>
   <a href="https://www.linkedin.com/in/pratama-azmi-atmajaya-383aa5157/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://www.instagram.com/pramz.exe/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>  
+  <a href="pratamaazmi1@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" /></a>  
 
 </p>
 

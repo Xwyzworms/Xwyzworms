@@ -40,7 +40,7 @@
         <img src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif" alt="dino"  />
         </p>
 
-<img align='right' src = "https://github-readme-stats.vercel.app/api/top-langs/?username=xwyzworm&&layout=compact&show_icons=true&show_icons=true&title_color=fff&icon_color=0BB7F3&text_color=9f9f9f&bg_color=151515">
+<img align='right' src = "https://github-readme-stats.vercel.app/api/top-langs/?username=xwyzworms&&layout=compact&show_icons=true&show_icons=true&title_color=fff&icon_color=0BB7F3&text_color=9f9f9f&bg_color=151515">
 
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" height="18px"> You Can Reach Me at 
 

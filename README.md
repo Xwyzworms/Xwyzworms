@@ -1,5 +1,5 @@
 <h3 align="justify"> Hi there, I am pratama Azmi , I loved <strong>learning</strong> and sharing my knowledge, I m into <strong>Data science</strong> but i also loved learn another subject :D  <h3>
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=xwyzworm.xwyzworm)
+[![visitors](https://visitor-badge.laobi.icu/badge?page_id=xwyzworm.xwyzworm)]
     <p align="center">
         <img src="https://img.icons8.com/color/48/000000/git.png" alt="git" width="20" height="20"/> 
         <img src="https://img.icons8.com/color/48/000000/gitlab.png" alt="gitlab" width="20" height="20"/>

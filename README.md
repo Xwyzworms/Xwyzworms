@@ -37,15 +37,15 @@
         <img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-ar21.svg" alt="Helm" height="20" />
        </p>
        <p align="center">
-        <img src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif" alt="dino" width="70px"  />
+        <img src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif" alt="dino"  />
         </p>
 
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=
-Xwyzworms&show_icons=true" alt="
+xwyzworms&show_icons=true" alt="
 Xwyzworms" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=
-Xwyzworms&layout=compact" alt="
+xwyzworms&layout=compact" alt="
 Xwyzworms" />
 </p>
 

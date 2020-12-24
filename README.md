@@ -32,7 +32,7 @@
        </p>
        <p align="center">
         <h4>This is me when coding without internet </h4>
-        <img src="dino.gif" alt="dino"  />
+        <img src="dino.gif" alt="dino" width="100%" />
         </p>
 <table>
     <tr>

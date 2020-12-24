@@ -31,8 +31,7 @@
         <img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-ar21.svg" alt="Helm" height="50" />
        </p>
        <p align="center">
-        <h4>This is me when coding without internet </h4>
-        <img src="https://media.giphy.com/media/KeQgaiv19rCEdVFnW8/giphy.gif" alt="dino" width=650 height=350 />
+        <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" alt="Word" width=650 height=350 />
         </p>
 <table>
     <tr>

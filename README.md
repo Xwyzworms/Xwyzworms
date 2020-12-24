@@ -1,7 +1,7 @@
 
-<h3 align="justify"> Hi there, I am pratama Azmi , I loved <strong>learning</strong> and sharing my knowledge, I m into <strong>Data science</strong> but i also loved learn another subject :D  <h3>
+<h3 align="justify"> Hi there, I am pratama Azmi , udah itu aja :D... Btw makasih dah kesini   <h3>
 <img src='https://visitor-badge.laobi.icu/badge?page_id=xwyzworms.xwyzworms')>
-<h3>Below what technologies i've learend so far</h3>
+<h3>Below the list of technologies i've learned so far</h3>
     <p align="center">
         <img src="https://img.icons8.com/color/48/000000/git.png" alt="git" width="50" height="50"/> 
         <img src="https://img.icons8.com/color/48/000000/gitlab.png" alt="gitlab" width="50" height="50"/>
@@ -31,8 +31,8 @@
         <img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-ar21.svg" alt="Helm" height="50" />
        </p>
        <p align="center">
-        <img src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif" alt="dino"  />
-        <h4>This is me when coding </h4>
+        <h4>This is me when coding without internet </h4>
+        <img src="dino.gif" alt="dino"  />
         </p>
 <table>
     <tr>

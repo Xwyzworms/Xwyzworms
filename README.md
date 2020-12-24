@@ -32,7 +32,7 @@
        </p>
        <p align="center">
         <h4>This is me when coding without internet </h4>
-        <img src="https://media.giphy.com/media/KeQgaiv19rCEdVFnW8/giphy.gif" alt="dino" width=100% height=50% />
+        <img src="https://media.giphy.com/media/KeQgaiv19rCEdVFnW8/giphy.gif" alt="dino" width=100 height=50 />
         </p>
 <table>
     <tr>

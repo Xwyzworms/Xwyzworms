@@ -1,5 +1,5 @@
 
-<h3 align="justify"> Hi there, I am pratama Azmi , udah itu aja :D... Btw makasih dah kesini   <h3>
+<h3 align="justify"> Hi there, I am pratama Azmi , Undergraduate Student Majoring Information Technology at Telkom university  <h3>
 <img src='https://visitor-badge.laobi.icu/badge?page_id=xwyzworms.xwyzworms')>
 <h3>Below the list of technologies i've learned so far</h3>
     <p align="center">
@@ -31,7 +31,6 @@
         <img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-ar21.svg" alt="Helm" height="50" />
        </p>
        <p align="center">
-        <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" alt="Word" width=650 height=350 />
         </p>
 <table>
     <tr>

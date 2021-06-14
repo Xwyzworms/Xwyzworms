@@ -25,10 +25,16 @@
        <p align="center">
         </p>
     <h3>Well,Here's my favorite Books</h3>
-    <li><a href="https://www.amazon.com/Machine-Learning-Coders-Programmers-Intelligence/dp/1492078190" style="color:FF0000">AI and Machine Learning for Coders: A Programmer's Guide to Artificial Intelligence</a></li>
+    <li><a href="https://www.amazon.com/Machine-Learning-Coders-Programmers-Intelligence/dp/1492078190" >AI and Machine Learning for Coders: A Programmer's Guide to Artificial Intelligence</a></li>
     <li><a href="https://www.amazon.com/Fluent-Python-Concise-Effective-Programming/dp/1491946008">Fluent Python: Clear, Concise, and Effective Programming</a></li>
-
-
+    <li><a href="https://www.amazon.com/Build-Your-Own-Website-WordPress/dp/1593275226">Build Your Own Website: A Comic Guide to HTML, CSS, and WordPress </a></li>
+    <li><a href="https://www.amazon.com/Hacking-Dummies-Computer-Tech/dp/1119485479">Hacking For Dummies</a></li>
+    <li><a href="https://www.amazon.com/Preprocessing-Intelligent-Systems-Reference-Library-ebook/dp/B00RZIZIR0">Data Preprocessing in Data Mining </a></li>
+    <li><a href="https://www.amazon.com/Android-Studio-4-0-Development-Essentials/dp/1951442202">Android Studio 4.0 Development Essentials - Kotlin Edition</a></li>
+    <li><a href="https://www.amazon.com/Feature-Engineering-Machine-Learning-Principles/dp/1491953241">Feature Engineering for Machine Learning: Principles and Techniques for Data Scientists</a></li>
+    <li><a href="https://www.amazon.com/ESP8266-Internet-Things-Cookbook-functionality/dp/1787288102">ESP8266 Internet of Things Cookbook: Over 50 recipes to help you master ESP8266 functionality</a></li>
+     
+    <h4>I'll Review Paper soon, i'll keep my summary here :D</h4>
 
 <table>
     <tr>

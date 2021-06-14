@@ -1,16 +1,12 @@
-
-<h3 align="justify"> Hi there, I am pratama Azmi , Undergraduate Student Majoring Information Technology at Telkom university  <h3>
+<body><h3 align="justify"> Hi there, I am pratama Azmi , Undergraduate Student Majoring Information Technology at Telkom university  <h3>
 <img src='https://visitor-badge.laobi.icu/badge?page_id=xwyzworms.xwyzworms')>
 <h3>Below the list of technologies i've learned so far</h3>
     <p align="center">
         <img src="https://img.icons8.com/color/48/000000/git.png" alt="git" width="50" height="50"/> 
-        <img src="https://img.icons8.com/color/48/000000/gitlab.png" alt="gitlab" width="50" height="50"/>
         <img src="https://raw.githubusercontent.com/vorillaz/devicons/master/!SVG/jquery_logo.svg" alt="jquery" width="50" height="50" />
         <img src="https://img.icons8.com/color/48/000000/javascript.png" width="50" height="50">
-        <img src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg" alt="Go" height="50"/>
         <img src="https://raw.githubusercontent.com/vorillaz/devicons/master/!SVG/java.svg" alt="JAVA" width="50" height="50"/> 
         <img src="https://img.icons8.com/color/48/000000/html-5.png" width="50" height="50" />
-        <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="NodeJS" width="50" height="50"/> 
         <img src="https://img.icons8.com/color/48/000000/python.png" alt="python" width="50" height="50"/>
         <img src="https://img.icons8.com/color/48/000000/google-cloud-platform.png" alt="google cloud"  width="50" height="50" /> 
         <img src="https://img.icons8.com/color/48/000000/flutter.png" height="50" width="50"/>
@@ -22,16 +18,18 @@
         <img src="https://img.icons8.com/color/48/000000/firebase.svg" alt="firebase"  width="50px" height="50" /> 
         <img src="https://img.icons8.com/fluent/40/000000/arduino.png" height="50" width="50"/>
         <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow"  width="50" height="50" /> 
-        <img src="https://img.icons8.com/color/64/000000/oracle-logo.png" alt="oracle"  width="50" height="50" /> 
-        <img src="https://img.icons8.com/color/48/000000/nginx.png" alt="nginx"  width="50" height="50" />
         <img src="https://img.icons8.com/fluent/48/000000/android-os.png" alt="android"  width="50" height="50" />
         <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="cplusplus"  width="50" height="50" />
         <img src="https://img.icons8.com/dusk/48/000000/css3.png" alt="css3"  width="50" height="50" />
-        <img src="https://img.icons8.com/color/48/000000/elasticsearch.png" alt="elasticsearch"  width="50" height="50" />
-        <img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-ar21.svg" alt="Helm" height="50" />
        </p>
        <p align="center">
         </p>
+    <h3>Well,Here's my favorite Books</h3>
+    <li><a href="https://www.amazon.com/Machine-Learning-Coders-Programmers-Intelligence/dp/1492078190" style="color:FF0000">AI and Machine Learning for Coders: A Programmer's Guide to Artificial Intelligence</a></li>
+    <li><a href="https://www.amazon.com/Fluent-Python-Concise-Effective-Programming/dp/1491946008">Fluent Python: Clear, Concise, and Effective Programming</a></li>
+
+
+
 <table>
     <tr>
         <td>
@@ -53,3 +51,4 @@
 
 
 
+</body>
